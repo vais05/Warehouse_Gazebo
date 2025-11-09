@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 <p align="middle">
 <img src="https://github.com/JorgeLZ13/Warehouse_Gazebo/blob/main/gazebo-simulations.png"  height="352" width="555"/>
@@ -112,6 +112,4 @@ The default laser sensor is the rplidar sensor, but is possible to change it to 
 
 ![WhatsApp Image 2022-02-14 at 10 48 46](https://user-images.githubusercontent.com/36930457/153876788-9a5ac258-161e-49ef-8e49-0aeac0adfaa4.jpeg)
 =======
-# Warehouse_Gazebo
-Inspired by Kiva robots, L1Br simulates a warehouse robot in Gazebo. It moves under shelves, lifts trays, adapts speed, and monitors sensors. A 135° laser sensor prevents collisions, while a bottom camera reads QR codes for localization. Wheel odometry and IMU further enhance realistic navigation.
->>>>>>> ce4953281a4373bf0110f87be2dc3d30a0792da6
+
